@@ -158,3 +158,8 @@ aws cloudformation delete-stack --stack-name sam-app
 For an introduction to the AWS SAM specification, the AWS SAM CLI, and serverless application concepts, see the [AWS SAM Developer Guide](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html).
 
 Next, you can use the AWS Serverless Application Repository to deploy ready-to-use apps that go beyond Hello World samples and learn how authors developed their applications. For more information, see the [AWS Serverless Application Repository main page](https://aws.amazon.com/serverless/serverlessrepo/) and the [AWS Serverless Application Repository Developer Guide](https://docs.aws.amazon.com/serverlessrepo/latest/devguide/what-is-serverlessrepo.html).
+
+## Final Project:
+
+![Στιγμιότυπο οθόνης (187)](https://github.com/user-attachments/assets/4c8f698f-52c6-41c4-a36a-fa7b010be442)
+![Στιγμιότυπο οθόνης (188)](https://github.com/user-attachments/assets/102382cb-9a51-4941-b9d6-e6c1e4cf624f)
